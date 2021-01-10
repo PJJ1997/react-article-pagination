@@ -1,8 +1,8 @@
-export interface Artcle{
-    id: number
-    title: string
-    content:string
-    time:string
-    author: string
-    like:number
-  }
+export interface Artcle {
+  id: number;
+  title: string;
+  content: string;
+  time: string;
+  author: string;
+  like: number;
+}
