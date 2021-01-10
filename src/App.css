@@ -1,0 +1,17 @@
+*{margin:0;padding:0;}
+body,html{width: 100%;height: 100%;}
+ul,li{ list-style-type: none; }
+
+body{
+    padding:60px 65px 0 60px;
+    box-sizing: border-box;
+    font-family: PingFont_Light, Helvetica, 微软雅黑, Arial, sans-serif;
+    background-color: #efefef;
+}
+.container{
+    width:30%;
+    margin: 0 auto;
+}
+.my-posts-title{
+    color:#409bcf;font-size: 30px;line-height: 50px;text-indent: 20px;
+}
